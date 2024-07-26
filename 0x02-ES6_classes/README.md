@@ -1,0 +1,1 @@
+# This is the repo fot the 0x02. ES6 classes project
