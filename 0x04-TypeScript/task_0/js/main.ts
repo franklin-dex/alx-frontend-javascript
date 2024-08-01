@@ -24,7 +24,7 @@ const studentsList: Student[] = [Student1, Student2];
 const table = document.createElement('table');
 const tbody = document.createElement('tbody');
 
-table.style.background = "black";
+table.style.background = "blue";
 table.appendChild(tbody);
 
 studentsList.forEach((student: Student): void => {
